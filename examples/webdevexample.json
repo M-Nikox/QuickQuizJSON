@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "choice1": "Hyper Text Markup Language",
+    "choice2": "Hyper link and Text Markup Language",
+    "choice3": "Home Tool Markup Language",
+    "choice4": "Hyper Tool Multi Language",
+    "correct": "Hyper Text Markup Language",
+    "explanation": "HTML is the standard markup language for documents designed to be displayed in a web browser."
+  },
+  {
+    "question": "Which HTML element is used for the largest heading?",
+    "choice1": "<head>",
+    "choice2": "<h6>",
+    "choice3": "<h1>",
+    "choice4": "<heading>",
+    "correct": "<h1>"
+  },
+  {
+    "question": "What is the correct HTML element for inserting a line break?",
+    "choice1": "<break>",
+    "choice2": "<lb>",
+    "choice3": "<br>",
+    "choice4": "<hr>",
+    "correct": "<br>"
+  },
+  {
+    "question": "Which character is used to indicate an end tag?",
+    "choice1": "<",
+    "choice2": "/",
+    "choice3": "*",
+    "choice4": "^",
+    "correct": "/"
+  },
+  {
+    "question": "Which attribute is used to provide an alternative text for an image?",
+    "choice1": "title",
+    "choice2": "src",
+    "choice3": "alt",
+    "choice4": "longdesc",
+    "correct": "alt",
+    "explanation": "The alt attribute provides alternative information for an image if a user for some reason cannot view it."
+  }
+]
