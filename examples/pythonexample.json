@@ -1,0 +1,43 @@
+[
+  {
+    "question": "How do you create a variable with the numeric value 5?",
+    "choice1": "x = 5",
+    "choice2": "x = int(5)",
+    "choice3": "Both x = 5 and x = int(5) are correct",
+    "choice4": "var x = 5",
+    "correct": "Both x = 5 and x = int(5) are correct"
+  },
+  {
+    "question": "What is the correct file extension for Python files?",
+    "choice1": ".pt",
+    "choice2": ".pyt",
+    "choice3": ".py",
+    "choice4": ".pyth",
+    "correct": ".py"
+  },
+  {
+    "question": "How do you create a function in Python?",
+    "choice1": "function myFunc():",
+    "choice2": "def myFunc():",
+    "choice3": "create myFunc():",
+    "choice4": "new myFunc():",
+    "correct": "def myFunc():"
+  },
+  {
+    "question": "Which method can be used to remove any whitespace from both the beginning and the end of a string?",
+    "choice1": "strip()",
+    "choice2": "trim()",
+    "choice3": "len()",
+    "choice4": "ptrim()",
+    "correct": "strip()",
+    "explanation": "In Python, the strip() method removes any leading and trailing characters (whitespace is the default)."
+  },
+  {
+    "question": "Which operator is used to multiply numbers?",
+    "choice1": "x",
+    "choice2": "%",
+    "choice3": "*",
+    "choice4": "#",
+    "correct": "*"
+  }
+]
