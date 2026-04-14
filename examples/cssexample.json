@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "choice1": "Cascading Style Sheets",
+    "choice2": "Colorful Style Sheets",
+    "choice3": "Creative Style Sheets",
+    "choice4": "Computer Style Sheets",
+    "correct": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which HTML attribute is used to define inline styles?",
+    "choice1": "class",
+    "choice2": "font",
+    "choice3": "styles",
+    "choice4": "style",
+    "correct": "style"
+  },
+  {
+    "question": "Which CSS property is used to change the text color of an element?",
+    "choice1": "fgcolor",
+    "choice2": "color",
+    "choice3": "text-color",
+    "choice4": "font-color",
+    "correct": "color"
+  },
+  {
+    "question": "Which CSS property controls the text size?",
+    "choice1": "font-size",
+    "choice2": "text-style",
+    "choice3": "font-style",
+    "choice4": "text-size",
+    "correct": "font-size"
+  },
+  {
+    "question": "How do you select an element with id 'demo'?",
+    "choice1": "demo",
+    "choice2": ".demo",
+    "choice3": "#demo",
+    "choice4": "*demo",
+    "correct": "#demo",
+    "explanation": "The # selector is used to select elements with a specific id."
+  }
+]
