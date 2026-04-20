@@ -43,3 +43,5 @@ Example:
 
 ## Notes
 This is a small personal project, so the setup is intentionally minimal.
+
+>Built with vanilla HTML, CSS, and JavaScript.
